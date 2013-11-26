@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Please Tell</string>
+    <string name="please_tell">please tell…</string>
+    <string name="please_tell_prompt">who and what?</string>
+    <string name="title_activity_service_starter">ServiceStarterActivity</string>
+
+</resources>
