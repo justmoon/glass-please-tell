@@ -15,27 +15,27 @@ rewriting to change the viewpoint of the speaker from the user to Glass itself.
 
 Here are some examples of what you can say:
 
-"ok glass, please tell Patrick not to brag all the time"
-=> "hey Patrick, don't brag all the time"
+`ok glass, please tell Patrick not to brag all the time`<br>
+↳ *"hey Patrick, don't brag all the time"*
 
-"ok glass, please tell John that his code is unreadable"
-=> "your code is unreadable, John"
+`ok glass, please tell John that his code is unreadable`<br>
+↳ *"your code is unreadable, John"*
 
-"ok glass, please tell Christine to make me a sandwich"
-=> "make him a sandwich, Christine"
+`ok glass, please tell Christine to make me a sandwich`<br>
+↳ *"make him a sandwich, Christine"*
 
 ## Limitations
 
 There are too many to list - this app is only intended for the humor of it
 existing. However, here are some particularly notable problems:
 
-* Tell won't understand names consisting of more than one word
-  "ok glass, please tell John Smith to get off my case"
-  => "John Smith to get off his case"
+* **Tell won't understand names consisting of more than one word**<br>
+  `ok glass, please tell John Smith to get off my case`<br>
+  ↳ *"John Smith to get off his case"*
 
-* Tell won't be able to change verb conjugation
-  "ok glass, please tell Will that he sucks"
-  => "you sucks, Will"
+* **Tell won't be able to change verb conjugation**<br>
+  `ok glass, please tell Will that he sucks`<br>
+  ↳ *"you sucks, Will"*
 
 ## Running this on Glass
 
